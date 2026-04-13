@@ -1,0 +1,11 @@
+# Hugo
+/resources/
+public/
+jsconfig.json
+/.hugo_build.lock
+.hugo_cache/
+
+# invisible files
+.DS_Store
+Thumbs.db
+*.log

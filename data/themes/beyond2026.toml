@@ -1,0 +1,39 @@
+# Theme metadata
+name = "Beyond2026"
+
+[light]
+  # Primary
+  primary = "rgb(27, 60, 83)"
+  text = "#1a1a1a"
+  link = "rgba(27, 60, 83, 0.83)"
+
+
+  # Menu
+  menu_primary = "#ffffff"
+  menu_text = "rgb(27, 60, 83)"
+  menu_text_active = "rgb(20, 50, 75)"
+  menu_title = "rgb(27, 60, 83)"
+
+  # Home sections
+  background = "#ffffff"
+  home_section_odd = "#f1f4f8"
+  home_section_even = "#dde6ef"
+
+
+[dark]
+  # Primary
+  primary = "rgb(90, 160, 255)"
+  text = "rgb(55, 255, 255, 0.9)"
+  link = "rgba(120, 170, 255, 0.85)"
+
+
+  # Menu
+  menu_primary = "rgb(20, 45, 75)"
+  menu_text = "rgba(255, 255, 255, 0.85)"
+  menu_text_active = "#ffffff"
+  menu_title = "rgba(255, 255, 255, 0.9)"
+
+  # Home sections
+  background = "rgb(20, 45, 75)"
+  home_section_odd = "rgb(25, 55, 95)"
+  home_section_even = "rgb(18, 40, 70)"
