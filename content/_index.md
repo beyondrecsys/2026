@@ -43,6 +43,13 @@ sections:
             * Workshop: October 2, 2026, morning session (8:30--12:30); in the scope of RecSys 2026
         
   - block: markdown
+    id: pc
+    content:
+      title: Program Committee
+      text: |-
+        TBA
+
+  - block: markdown
     id: organizers
     content:
       title: Organizers
