@@ -29,7 +29,9 @@ sections:
     content:
       title: Objectives
       text: |-
-            This workshop aims to position RecSys as a meeting point for these diverse research traditions. Rather than centering exclusively on algorithmic innovation, we seek to foreground theoretical, methodological, behavioral, organizational, ethical, and societal perspectives on recommendation. We explicitly welcome contributions from researchers working outside core computing venues, as well as integrative work that bridges computational and non-computational approaches.
+            Recommendation and personalization research has expanded far beyond its traditional home in computer science. Today, scholars across disciplines---including information systems, communication science, psychology, marketing, education, media studies, and sociology---investigate how recommendations are designed, perceived, evaluated, regulated, and embedded in organizational and societal contexts.
+            
+            The BEYOND workshop aims serve as a meeting point for these diverse research traditions. Rather than centering solely on algorithmic innovation, we seek to foreground theoretical, methodological, behavioral, organizational, ethical, and societal perspectives on recommendation. We explicitly welcome contributions from researchers working outside core computing venues, as well as integrative work that bridges computational and non-computational approaches.
   - block: markdown
     id: dates
     content:
