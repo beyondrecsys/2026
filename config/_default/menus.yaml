@@ -28,3 +28,6 @@ main:
   - name: Organizers
     url: '#organizers'
     weight: 80
+  - name: BEYOND 2025
+    url: https://beyondrecsys.github.io/2025/
+    weight: 90
