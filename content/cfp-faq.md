@@ -37,9 +37,7 @@ sections:
         Single-anonymized peer review: author names and affiliations remain in the manuscript; reviewer identities are hidden. Each submission will be reviewed by three Program Committee members.
 
         ## What are the evaluation criteria?
-        Quality, novelty, clarity, interdisciplinarity, and relevance for fostering discussion.
-
-        Where applicable: methodological rigor and ethical considerations.
+        Quality, novelty, clarity, interdisciplinarity, and relevance for fostering discussion. Where applicable: methodological rigor and ethical considerations.
 
         ## Are dual submissions allowed?
         No. Submissions must be original, in English, and not under review elsewhere (conference, workshop, or journal) at the time of submission.
@@ -61,9 +59,6 @@ sections:
 
         ## What about the use of generative AI in manuscripts?
         Follow CEUR-WS guidelines and include CEUR’s Declaration on Generative AI as required. Further details will be provided with camera-ready instructions.
-
-        ## What language should the paper be written in?
-        English.
 
         ## Are supplementary materials allowed?
         The CFP does not specify supplementary material. Please prepare your main paper to be self-contained. If supplementary materials become permitted, details will be provided on the submission site.
