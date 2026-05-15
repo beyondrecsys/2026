@@ -100,6 +100,8 @@ sections:
 
           All participants must adhere to a code of conduct, which will be shared before the workshop.
 
+          Also refer to the [FAQs](cfp-faq.md) for further details and questions.
+
   - block: markdown
     id: dates
     content:
