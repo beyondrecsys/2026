@@ -107,7 +107,7 @@ sections:
     content:
         title: Important Dates
         text: |-
-            * Paper submission: July 13, 2026, AoE
+            * Paper submission: July 20 (extended), 2026, AoE
             * Author notification: August 14, 2026, AoE
             * Camera-ready version due: August 28, 2026, AoE
             * Workshop: October 2, 2026, morning session (8:30--12:30); in the scope of RecSys 2026
