@@ -109,7 +109,7 @@ sections:
         text: |-
             * Paper submission: July 20 (extended), 2026, AoE
             * Author notification: August 14, 2026, AoE
-            * Camera-ready version due: August 28, 2026, AoE
+            * Camera-ready version due: September 4, 2026, AoE
             * Workshop: October 2, 2026, morning session (8:30--12:30); in the scope of RecSys 2026
         
   - block: markdown
