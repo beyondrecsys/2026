@@ -117,7 +117,22 @@ sections:
     content:
       title: Program Committee
       text: |-
-        TBA
+        - Florian Atzenhofer-Baumgartner, University of Graz  
+        - Brett Binst, Vrije Universiteit Brussel   
+        - Matthias Glaser, University of Salzburg  
+        - Arsen Matej Golubovikj, University of Primorska  
+        - Thomas Elmar Kolb, TU Vienna  
+        - Dominik Kowald, University of Graz  
+        - Silvia Milano, Technical University of Munich  
+        - Marta Moscati, Johannes Kepler University Linz  
+        - Michael Müller, University of Innsbruck  
+        - Lorenzo Porcaro, Sapienza University of Rome  
+        - Guillaume Salha-Galvan, Shanghai Jiao Tong University  
+        - Anna Schjøtt Hansen, Roskilde University  
+        - Annelien Smets, Vrije Universiteit Brussel  
+        - Alain Starke, University of Amsterdam  
+        - Robin Verachtert, DPG Media IT  
+
 
   - block: markdown
     id: organizers
