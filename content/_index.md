@@ -102,6 +102,24 @@ sections:
 
           Also refer to the [FAQs](/2026/cfp-faq/) for further details and questions.
 
+  
+  - block: markdown
+    id: program
+    content:
+        title: Program
+        text: |-
+            * 8:30 - 8:45 - Welcome
+            * 8:45 - 9:30 - Keynote
+            * 9:30 - 9:45 - Ordered Pairwise Comparison: Structured Exploration for Improving Provider Fairness in Recommender Systems - Salima Jaoua, Nicolò Pagan, Anikó Hannák and Stefania Ionescu. 
+            * 9:45 - 10:00 - PIXU: Personalized News Article Image Selection - Mahamudul Hasan, Daniel Kluver, Bart P. Knijnenburg and Joseph A. Konstan.             
+            * 10:00 - 10:30 - Coffee Break
+            * 10:30 - 10:45 - Reading Crowds Are Not Monoliths — but Their Factions May Not Travel: Sub-Group Structure in Social Highlighting and What It Means for Recommenders - Kazuki Nakayashiki and Keisuke Watanabe. 
+            * 10:45 - 11:00 - A Pedagogically Demonstrative Model Visualizing the Pathway from Online Interactions to Personalized Recommendation - Sushmita Khan, Connor Pennington and Bart Knijnenburg. 
+            * 11:00 - 11:15 - Serendipity Cards: An Affordance-Based Translational Design Method - Annelien Smets. 
+            * 11:15 - 12:00 - Discussion and closing.
+
+            
+
   - block: markdown
     id: dates
     content:
